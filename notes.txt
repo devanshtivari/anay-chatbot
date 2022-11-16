@@ -1,0 +1,17 @@
+jupyter
+local function/operations 
+global function/operations 
+IDE : Integrated Development Enviroment 
+java : Intellij {jetbrains}
+python : jupyter , spyder
+visual studio code 
+jupyter is an ide for python. It is a global IDE
+chatbot
+input from the user {speech} -> process -> desired output 
+listeninng from the user 
+identifying
+processing 
+output pyttsx3 
+jupyter : installing the modules
+kernel : cpu , ram , battery , hard disks
+kernel act as a middleware between the hardware and the user
