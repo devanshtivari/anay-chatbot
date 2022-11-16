@@ -22,7 +22,7 @@ def WishMe():
         speak("good Afternoon")
     else:
         speak("Good Evening")
-    
+    speak("I am Jarvis. How can I help you")
 
 
 def speak(audio):
